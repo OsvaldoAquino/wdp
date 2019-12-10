@@ -1,0 +1,21 @@
+.hd{ background: rgb(189, 189, 189)}
+.hd{margin: 50px;
+    padding: 120px;}
+.ft{ background: rgb(187, 187, 187)}
+.ft{margin: 50px;
+    padding: 60px;}
+.lnav{margin:150px;}
+.rnav{margin:150px;}
+.bd{color: rgb(0, 0, 0);
+background: rgb(230, 230, 230);}
+.bd{margin: 50px;
+    padding: 60;}
+lists{
+    text-align: center;
+}
+a:hover,
+a:focus,
+a:active {
+	text-decoration: underline;
+	color: #9685ba;
+}
